@@ -1,0 +1,6 @@
+dotenv: .env
+
+wallets:
+  from_key0: ${PRIVATE_KEY0}
+  from_key1: ${PRIVATE_KEY1}
+  from_key2: ${PRIVATE_KEY2}
