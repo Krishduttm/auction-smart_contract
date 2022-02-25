@@ -7,4 +7,4 @@ bids are stopped.
 
 Then the highest bidder function is called which returns the highest bidder and then for the sake of simplicity i added an implementation which transfers all the funds to the highest bidder. 
 
-I conducted tests and wrote scripts too for this, all in brownie
+Implemented in brownie.
